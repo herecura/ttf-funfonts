@@ -1,0 +1,15 @@
+pkgbase = ttf-funfonts
+	pkgdesc = 76 selected TTF fonts from 6760 fonts package
+	pkgver = 2
+	pkgrel = 1
+	url = http://thelinuxbox.org/
+	install = ttf-funfonts.install
+	arch = any
+	license = custom
+	source = http://thelinuxbox.org/downloads/fonts/funfonts.tar.gz
+	source = LICENSE
+	md5sums = 3dd9c79d77e58cdb532cc6c21e7914d5
+	md5sums = d30e0838c9a9f2a6148bda33b28ad6a6
+
+pkgname = ttf-funfonts
+
