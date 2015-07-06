@@ -1,7 +1,7 @@
 pkgbase = ttf-funfonts
 	pkgdesc = 76 selected TTF fonts from 6760 fonts package
 	pkgver = 2
-	pkgrel = 2
+	pkgrel = 3
 	url = http://thelinuxbox.org/
 	install = ttf-funfonts.install
 	arch = any

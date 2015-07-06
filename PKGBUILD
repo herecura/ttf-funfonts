@@ -4,7 +4,7 @@
 
 pkgname=ttf-funfonts
 pkgver=2
-pkgrel=2
+pkgrel=3
 pkgdesc="76 selected TTF fonts from 6760 fonts package"
 arch=(any)
 url="http://thelinuxbox.org/"
